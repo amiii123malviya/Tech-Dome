@@ -1,4 +1,5 @@
 # Loan-App
+
 Loan Application Task given by **Tech-Dome**
 
 The Loan Management System is a Django web application designed to facilitate the management of loans. It allows customers to submit loan requests, admins to approve or reject loan requests, and customers to view and manage their loans.
@@ -16,7 +17,8 @@ The Loan Management System is a Django web application designed to facilitate th
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/loan-management-system.git
+    git clone https://github.com/Pr1s0ner627/Loan-App.git
+    
     ```
 
 2. Install dependencies:
