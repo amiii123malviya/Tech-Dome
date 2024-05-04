@@ -64,10 +64,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository's `develop` branch.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Credits
-
-This project was created by Jeevan Anand (G-1).
